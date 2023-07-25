@@ -1,0 +1,20 @@
+* {
+  margin-top: 0;
+  font-family: cursive;
+}
+
+.block1 {
+  float: left;
+  width: 30%;
+  background-color: aquamarine;
+  padding: 10px;
+  text-align: center;
+  margin: 5px;
+  cursor: pointer;
+}
+
+body img {
+  height: 200px;
+  width: 200px;
+  margin: 5px;
+}
